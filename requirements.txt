@@ -1,18 +1,8 @@
-who-gets-hired-nyc-civil-service/
-│
-├── data/
-│   └── civil_service_list.csv            # Your dataset
-│
-├── charts/
-│   └── score_distribution.png            # Visuals saved here
-│
-├── app/
-│   ├── dashboard.py                      # Streamlit app here
-│   └── utils.py                          # Helper functions if needed
-│
-├── notebooks/
-│   └── exploratory_analysis.ipynb        # Your initial EDA
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+openpyxl
+
